@@ -1,1 +1,6 @@
+theme: minima
 
+title: ABC
+url: "https://3340.github.io"
+
+markdown: kramdown
