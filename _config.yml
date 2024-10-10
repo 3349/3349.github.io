@@ -2,5 +2,6 @@ theme: minima
 
 title: "ABC"
 url: "https://3349.github.io"
+description: "https://github.com/3349"
 
 markdown: kramdown
